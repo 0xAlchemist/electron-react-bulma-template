@@ -1,1 +1,1 @@
-electron-react-bulma-template
+starter-template
